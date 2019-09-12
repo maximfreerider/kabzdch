@@ -1,0 +1,24 @@
+.item {
+  background-color: yellow;
+}
+
+.posts {
+  margin-top: 8px;
+  background-color: #00FFFF;
+  /*background-color: yellowgreen;*/
+}
+
+.postsBlock {
+  padding: 10px;
+}
+
+.textArea {
+  margin-top: 5px;
+}
+
+.button {
+  margin-bottom: 7px;
+  border-radius: 15px;
+  background-color: rebeccapurple;
+  color: orangered;
+}

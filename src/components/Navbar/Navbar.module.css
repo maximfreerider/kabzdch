@@ -1,0 +1,16 @@
+.nav {
+  grid-area: n;
+  background-color: deepskyblue;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.item a {
+  color: wheat;
+  text-decoration: none;
+}
+
+.item a.active {
+  background-color: blue;
+  border-radius: 10%;
+}

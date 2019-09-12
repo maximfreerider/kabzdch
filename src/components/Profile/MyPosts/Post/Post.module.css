@@ -1,0 +1,13 @@
+.item {
+    color: grey;
+}
+ .item img {
+   width: 60;
+   height: 60px;
+   border-radius: 45px;
+ }
+ .item button {
+   margin: 5px;
+   padding: 7px;
+   border-radius: 15px;
+ }
