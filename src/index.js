@@ -6,10 +6,10 @@ import * as serviceWorker from './serviceWorker';
 import store from "./redux/redux-store";
 import {Provider} from "./StoreContext";
 
+
 let rerenderEntireTree = (state) => {
     ReactDOM.render(
-        <Provider value={store}>
-            {/*<App store={store} state={state} dispatch={store.dispatch.bind(store)}/>*/}
+        <Provider store={store}>
             <App/>
         </Provider>
             ,document.getElementById('root'));
