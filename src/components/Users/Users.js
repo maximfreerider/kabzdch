@@ -11,7 +11,8 @@ let Users = (props) => {
     }
 
     return (
-        <div>
+
+            <div>
             <div>
                 {
                     pages.map(numberOfPage =>{
@@ -52,6 +53,7 @@ let Users = (props) => {
                 })
             }
         </div>
+
     );
 };
 
