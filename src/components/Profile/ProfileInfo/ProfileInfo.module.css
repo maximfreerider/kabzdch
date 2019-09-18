@@ -1,4 +1,11 @@
 .desc {
-    padding: 10px;
+    padding: 15px;
 }
 
+.fonPhoto{
+    margin-top: 7px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 950px;
+    height: 200px;
+}
