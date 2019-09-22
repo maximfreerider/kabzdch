@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d65822c4-01b5-4eab-bb2e-c47e105e625d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Users/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/Users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Users/UsersContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/UsersContainer.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,7 +62,7 @@
         <counts>
           <entry key="css" value="1122" />
           <entry key="html" value="17" />
-          <entry key="js" value="20082" />
+          <entry key="js" value="20084" />
           <entry key="jsx" value="2449" />
         </counts>
       </usages-collector>
@@ -73,7 +71,7 @@
           <entry key="CSS" value="1122" />
           <entry key="HTML" value="17" />
           <entry key="JSX Harmony" value="2449" />
-          <entry key="JavaScript" value="20082" />
+          <entry key="JavaScript" value="20084" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -87,32 +85,7 @@
     <favorites_list name="react-kabzda-1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Users/Users.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9">
-              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/Users/UsersContainer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1390">
-              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -189,8 +162,8 @@
         <option value="$PROJECT_DIR$/src/redux/auth-reducer.js" />
         <option value="$PROJECT_DIR$/src/components/Header/HeaderContainer.js" />
         <option value="$PROJECT_DIR$/src/components/Header/Header.jsx" />
-        <option value="$PROJECT_DIR$/src/components/Users/Users.js" />
         <option value="$PROJECT_DIR$/src/components/Users/UsersContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/Users/Users.js" />
       </list>
     </option>
   </component>
@@ -210,11 +183,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="800" />
+    <option name="width" value="800" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -228,24 +200,6 @@
             <path>
               <item name="react-kabzda-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-kabzda-1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-kabzda-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-kabzda-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-kabzda-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-kabzda-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-kabzda-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-kabzda-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Users" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,12 +262,12 @@
       <workItem from="1568181594474" duration="7748000" />
       <workItem from="1568212965126" duration="3196000" />
       <workItem from="1568397391367" duration="71157000" />
-      <workItem from="1569136287511" duration="13254000" />
+      <workItem from="1569136287511" duration="14052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180328000" />
+    <option name="totallyTimeSpent" value="181126000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -326,13 +280,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" weight="0.32939634" />
       <window_info id="npm" order="1" side_tool="true" weight="0.32953104" />
       <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.12420786" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49868765" weight="0.41935483" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49868765" weight="0.6505376" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5013123" side_tool="true" weight="0.52150536" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.47311828" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -724,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Users/Users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        <state relative-caret-position="1309">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
