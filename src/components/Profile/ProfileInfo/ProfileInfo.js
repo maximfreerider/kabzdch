@@ -10,7 +10,6 @@ const ProfileInfo = (props) => {
         <div>
             <div>
                 <img className={s.fonPhoto}
-                    // src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCZ6cRx3M4E_M8t-FNlY5CW1AeQj5bg2a8Ryt0RcSVHmanMTA1"
                     src="https://www.freewebheaders.com/wp-content/gallery/cute-headers/lovely-cartoons-header-37225.jpg"
                      alt="fon"/>
             </div>
