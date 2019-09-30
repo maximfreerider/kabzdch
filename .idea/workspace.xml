@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d65822c4-01b5-4eab-bb2e-c47e105e625d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPostsContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPostsContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/dialogs-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/dialogs-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/profile-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/profile-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,7 +19,7 @@
     <session id="-1968934475">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
@@ -32,9 +27,9 @@
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -72,7 +67,7 @@
         <counts>
           <entry key="css" value="1249" />
           <entry key="html" value="17" />
-          <entry key="js" value="30006" />
+          <entry key="js" value="30244" />
           <entry key="jsx" value="3107" />
         </counts>
       </usages-collector>
@@ -81,7 +76,7 @@
           <entry key="CSS" value="1249" />
           <entry key="HTML" value="17" />
           <entry key="JSX Harmony" value="3107" />
-          <entry key="JavaScript" value="30006" />
+          <entry key="JavaScript" value="30244" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -105,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="272">
+              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -117,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Login/Login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+            <state relative-caret-position="255">
+              <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -217,9 +212,9 @@
         <option value="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" />
         <option value="$PROJECT_DIR$/src/components/Dialogs/AddMessageForm/AddMessageForm.module.js" />
         <option value="$PROJECT_DIR$/src/components/Dialogs/Dialogs.js" />
-        <option value="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.js" />
         <option value="$PROJECT_DIR$/src/components/Dialogs/AddMessageForm/AddMessageForm.js" />
         <option value="$PROJECT_DIR$/src/components/Login/Login.js" />
+        <option value="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.js" />
       </list>
     </option>
   </component>
@@ -239,8 +234,8 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="800" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="831" />
     <option name="width" value="800" />
     <option name="height" value="860" />
   </component>
@@ -388,12 +383,13 @@
       <workItem from="1569426492156" duration="12017000" />
       <workItem from="1569520230603" duration="2619000" />
       <workItem from="1569656231957" duration="27405000" />
-      <workItem from="1569761555540" duration="9660000" />
+      <workItem from="1569761555540" duration="9972000" />
+      <workItem from="1569833441366" duration="3859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="255482000" />
+    <option name="totallyTimeSpent" value="259653000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -405,16 +401,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="0" width="800" height="860" extended-state="0" />
+    <frame x="831" y="0" width="800" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" weight="0.32939634" />
       <window_info id="npm" order="1" side_tool="true" weight="0.32939634" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49862638" weight="0.43963253" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49862638" visible="true" weight="0.017060367" />
       <window_info id="Structure" order="3" sideWeight="0.50137365" side_tool="true" weight="0.32677165" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49868765" weight="0.75537634" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49868765" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5013123" side_tool="true" weight="0.52150536" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.47311828" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.22177419" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -684,9 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -736,9 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,16 +760,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Dialogs/AddMessageForm/AddMessageForm.module.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dialogs/AddMessageForm/AddMessageForm.module.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Dialogs/Dialogs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,20 +782,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Login/Login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="255">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Login/Login.js">
+    <entry file="file://$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+        <state relative-caret-position="272">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
